@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @trevsecops
 - 👀 I’m interested in containers, k8s, web/app development, and security
-- 🌱 I’m currently learning Go, AWS Web Services, and Docker
 - 📫 How to reach me : trevsecops@pm.me
 
 <!---
