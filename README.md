@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trevsecops
-- 👀 I’m a multi-hat Security Engineer 
+- 👀 I can do a lot of different types of Security Work
 - 📫 How to reach me : trevsecops@pm.me
 
 <!---
